@@ -1,0 +1,18 @@
+{
+    "name": "rynrin/php-design-patterns",
+    "description": "PHP design patterns implementation",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rynrin\\PhpDesignPatterns\\": "src/"
+        },
+        "classmap": ["simple-factory",  "factory-method"]
+    },
+    "authors": [
+        {
+            "name": "Ryn Rin",
+            "email": "rynrin.san@gmail.com"
+        }
+    ],
+    "require": {}
+}
